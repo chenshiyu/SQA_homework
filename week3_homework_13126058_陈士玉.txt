@@ -1,0 +1,24 @@
+My group : E 
+
+Development procedure for Musa-1
+
+1.finding the customer profile
+	1.1 differentiate customer users
+	1.2 weight assignment 
+
+2.establishing the user profile 
+	2.1 breakdown of customer groups 
+	2.2 Weighting factor assignment for user weights within customer types
+	2.3 Comprehensive user profile derivation
+
+3. defining system modes
+
+4. determining functional profile
+	4.1 identifying functions
+	4.2 creating/consolidating function list
+	4.3 determining occurrence probabilities
+
+5. determining OP
+	5.1 refining functional profile into OP
+	5.2 defining operations				
+	5.3 obtaining occurrence probabilities
