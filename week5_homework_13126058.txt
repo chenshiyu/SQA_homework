@@ -1,0 +1,12 @@
+Homework for Week 5 of chenshiyu 13126058.
+
+Topic : your understanding of formal methods in general and model checking in particular.
+
+Formal methods : 
+   Formal methods is made up of two parts formal specification and formal verification.
+   Formal specification is a part of defect prevention. It can help us to prevent/reduce defect injection due to imprecision, ambiguity,etc. Formal methods care about correctness focus, different levels of details, clear,cons and consistent. It contain descriptive formalspecifications and behavioral formal specifications. 
+   The core thought of formal verification is "Prove absence of fault". It provides proof of correctness. It has several commonly used approaches such as formal specs, axioms for components or functional units and development and verification together. Some ohter related approaches are also help to formal verification, sush as model checking which we will talk about in the following.
+
+Model checking :
+   Model checking is a tool to check the validity of the proposition which is a suitable formula of property of interest through algorithm/program.
+If the result is positive , the model checking will give us a proof, otherwise a counterexample.
